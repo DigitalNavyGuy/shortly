@@ -612,16 +612,12 @@ video {
   left: 4rem;
 }
 
-.left-7 {
-  left: 1.75rem;
-}
-
-.top-24 {
-  top: 6rem;
-}
-
 .left-6 {
   left: 1.5rem;
+}
+
+.left-7 {
+  left: 1.75rem;
 }
 
 .right-6 {
@@ -630,6 +626,10 @@ video {
 
 .top-20 {
   top: 5rem;
+}
+
+.top-24 {
+  top: 6rem;
 }
 
 .mx-auto {
